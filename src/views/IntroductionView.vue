@@ -3,7 +3,7 @@
     <div class="app-container flex-col space-y-16">
       <article
           class="mx-auto w-full max-w-4xl format format-sm sm:format-base lg:format-lg format-blue dark:format-invert">
-        <h1 class="mb-4 text-3xl font-extrabold leading-tight lg:mb-6 lg:text-4xl">
+        <h1 class="mb-4 text-3xl font-extrabold leading-tight lg:mb-6 lg:text-4xl animate-fade-up">
           ¿Quién es Carlos Kasuga?</h1>
         <p class="lead">
           Carlos Kasuga es un empresario y líder empresarial mexicano de origen japonés. Nació el 6 de octubre de 1934
@@ -49,14 +49,10 @@
           <img class="rounded-lg" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Carlos_Kasuga.jpg" alt="">
           <figcaption>Carlos Kasuga Osaka</figcaption>
         </figure>
-        <h2>Getting started with Flowbite</h2>
-        <p>First of all you need to understand how Flowbite works. This library is not another framework.
-          Rather, it is a set of components based on Tailwind CSS that you can just copy-paste from the
-          documentation.</p>
       </article>
       <article
           class="mx-auto w-full max-w-4xl format format-sm sm:format-base lg:format-lg format-blue dark:format-invert">
-        <h1 class="mb-4 text-3xl font-extrabold leading-tight lg:mb-6 lg:text-4xl">
+        <h1 class="mb-4 text-3xl font-extrabold leading-tight lg:mb-6 lg:text-4xl animate-fade-up">
           ¿Quién es Yokoi Kenji?</h1>
         <p class="lead">
           Yokoi Kenji es un colombiano de ascendencia japonesa conocido por sus discursos motivacionales y conferencias
@@ -106,15 +102,20 @@
           significativo en la vida de muchas personas.
         </p>
         <figure>
-          <img class="rounded-lg" src="https://webdelmaestrocmf.com/portal/wp-content/uploads/2020/09/2-copia-4.jpg" alt="">
+          <img class="rounded-lg" src="https://webdelmaestrocmf.com/portal/wp-content/uploads/2020/09/2-copia-4.jpg"
+               alt="">
           <figcaption>Yokoi Kenji</figcaption>
         </figure>
-        <h2>Getting started with Flowbite</h2>
-        <p>First of all you need to understand how Flowbite works. This library is not another framework.
-          Rather, it is a set of components based on Tailwind CSS that you can just copy-paste from the
-          documentation.</p>
       </article>
     </div>
+
+    <section class="app-container">
+      <div class="flex justify-center my-8">
+        <RouterLink to="/activity" class="btn-lg btn-primary animate-fade-up">
+          Ir a la dinámica
+        </RouterLink>
+      </div>
+    </section>
   </main>
 </template>
 <script setup>

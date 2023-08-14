@@ -1,0 +1,222 @@
+[
+  {
+    "questionId": 1,
+    "question": "¿Cuál es el área principal en la que Carlos Kasuga ha tenido un impacto significativo?",
+    "options": [
+      {
+        "answer": "Ciencia de la computación",
+        "isCorrect": false
+      },
+      {
+        "answer": " Industria automotriz",
+        "isCorrect": false
+      },
+      {
+        "answer": "Educación y alimentos probióticos",
+        "isCorrect": true
+      },
+      {
+        "answer": " Medicina y salud",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionId": 2,
+    "question": "¿Cuál es la nacionalidad de Carlos Kasuga?",
+    "options": [
+      {
+        "answer": "Japonés",
+        "isCorrect": false
+      },
+      {
+        "answer": "Mexicano",
+        "isCorrect": true
+      },
+      {
+        "answer": "Estadounidense",
+        "isCorrect": false
+      },
+      {
+        "answer": "Canadiense",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionId": 3,
+    "question": "¿Qué empresa está asociada con Carlos Kasuga y produce productos lácteos fermentados?",
+    "options": [
+      {
+        "answer": "Coca-Cola",
+        "isCorrect": false
+      },
+      {
+        "answer": "Nestlé",
+        "isCorrect": false
+      },
+      {
+        "answer": "Yakult",
+        "isCorrect": true
+      },
+      {
+        "answer": "PepsiCo",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionId": 4,
+    "question": "¿Qué filosofía empresarial promueve Carlos Kasuga en sus enseñanzas?",
+    "options": [
+      {
+        "answer": "Consumismo desenfrenado",
+        "isCorrect": false
+      },
+      {
+        "answer": "Individualismo extremo",
+        "isCorrect": false
+      },
+      {
+        "answer": "Honestidad, trabajo duro y gratitud",
+        "isCorrect": true
+      },
+      {
+        "answer": "Competencia desleal",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionId": 5,
+    "question": "¿Cuál de las siguientes afirmaciones es cierta sobre Carlos Kasuga?",
+    "options": [
+      {
+        "answer": "Es un astronauta famoso.",
+        "isCorrect": false
+      },
+      {
+        "answer": "Es un reconocido chef internacional.",
+        "isCorrect": false
+      },
+      {
+        "answer": "Es un líder empresarial mexicano de origen japonés.",
+        "isCorrect": true
+      },
+      {
+        "answer": "Es un famoso artista de cine.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionId": 6,
+    "question": "¿Cuál es el enfoque principal de las conferencias de Yokoi Kenji?",
+    "options": [
+      {
+        "answer": "Tecnología y avances científicos",
+        "isCorrect": false
+      },
+      {
+        "answer": "Arte y creatividad",
+        "isCorrect": false
+      },
+      {
+        "answer": "Valores, cultura y superación personal",
+        "isCorrect": true
+      },
+      {
+        "answer": "Política y economía global",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionId": 7,
+    "question": "¿Cuál es la ascendencia de Yokoi Kenji?",
+    "options": [
+      {
+        "answer": "Mexicana",
+        "isCorrect": false
+      },
+      {
+        "answer": "Japonesa",
+        "isCorrect": true
+      },
+      {
+        "answer": "Francesa",
+        "isCorrect": false
+      },
+      {
+        "answer": "Brasileña",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionId": 8,
+    "question": "¿Dónde nació Yokoi Kenji?",
+    "options": [
+      {
+        "answer": "Japón",
+        "isCorrect": false
+      },
+      {
+        "answer": "Corea del Sur",
+        "isCorrect": false
+      },
+      {
+        "answer": "Colombia",
+        "isCorrect": true
+      },
+      {
+        "answer": "Estados Unidos",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionId": 9,
+    "question": "¿Cuál es la filosofía de vida de Yokoi Kenji?",
+    "options": [
+      {
+        "answer": "Promover el consumismo",
+        "isCorrect": false
+      },
+      {
+        "answer": "Fomentar la individualidad extrema",
+        "isCorrect": false
+      },
+      {
+        "answer": "Combinar valores occidentales y orientales para el éxito personal",
+        "isCorrect": true
+      },
+      {
+        "answer": "Rechazar la educación formal",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionId": 10,
+    "question": "¿En qué plataforma ha compartido Yokoi Kenji sus discursos e ideas?",
+    "options": [
+      {
+        "answer": "Revistas impresas",
+        "isCorrect": false
+      },
+      {
+        "answer": "Estaciones de radio locales",
+        "isCorrect": false
+      },
+      {
+        "answer": "Redes sociales y plataformas en línea",
+        "isCorrect": true
+      },
+      {
+        "answer": "Clubes nocturnos",
+        "isCorrect": false
+      }
+    ]
+  }
+]

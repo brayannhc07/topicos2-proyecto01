@@ -1,7 +1,8 @@
 <template>
-  <div class="evaluation">
-    <h1>This is an evaluation page</h1>
-  </div>
+  <main class="app-container my-8">
+    <Quiz/>
+  </main>
 </template>
 <script setup>
+import Quiz from "@/components/Quiz.vue";
 </script>
