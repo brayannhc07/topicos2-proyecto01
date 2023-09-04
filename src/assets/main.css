@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap');
+@import '@vue-flow/core/dist/style.css';
+@import '@vue-flow/core/dist/theme-default.css';
+@import '@vue-flow/controls/dist/style.css';
 
 @tailwind base;
 @tailwind components;
@@ -84,7 +87,7 @@
 
 @layer components {
     .card {
-        @apply block shadow dark:shadow-none bg-surface text-on-surface rounded-lg border border-outline;
+        @apply block shadow-md dark:shadow-none bg-surface text-on-surface rounded-lg dark:border border-outline;
     }
 
     .btn,
